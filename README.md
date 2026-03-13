@@ -1,15 +1,17 @@
-# SwitFreq
-A word frequency program made in ???
+# RFreq
+A word frequency program made in Rust
 
 # How to Install
 
 1. Clone the repository on your IDE
-2. ???
+2. [Install Rust for your OS](https://rust-lang.org/learn/get-started/)
+3. Run the file
 
 # How it Works
 
 Concepts used
-- I/O
+- Print
+- File handling
 - String replace and split
 - Dictionary
 - For loop
