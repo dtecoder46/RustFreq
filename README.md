@@ -5,6 +5,7 @@ A word frequency program made in Rust
 1. [w3Schools Python](w3schools.com/python)
 2. [Wikipedia most common English words](https://en.wikipedia.org/wiki/Most_common_words_in_English)
 3. [GeeksforGeeks sort Python dictionar descending](https://www.geeksforgeeks.org/python/sort-dictionary-by-value-python-descending/)
+4. [Example text used: WSJ](https://www.wsj.com/tech/ai/openai-anthropic-claude-code-apple-steve-jobs-4cdc28d2?mod=hp_lead_pos6)
 
 # How to Install
 
