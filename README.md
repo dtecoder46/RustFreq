@@ -1,5 +1,5 @@
 # PyFreq
-A word frequency program made in Rust
+A word frequency program made in Python
 
 # Credits
 1. [w3Schools Python](w3schools.com/python)
