@@ -1,4 +1,4 @@
-# RFreq
+# PyFreq
 A word frequency program made in Rust
 
 # Credits
@@ -16,16 +16,7 @@ A word frequency program made in Rust
 python3 main.py
 ~~~
 
-# How it Works
-
-Concepts used
-- Print
-- File handling
-- String replace and split
-- Dictionary
-- For loop
-- Conditional logic
-- Increment operator
+# How it Works/Algorithm
 
 1. Get input from text file
 2. Split the text by spaces to make an array of words
